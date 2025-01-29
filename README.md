@@ -57,6 +57,4 @@ Mini-games can only be repeated if player doesn't win the game but at the cost o
 
 ***
 
-💫 **Documentation:**
 
-Read our [Documentation here](Thesis_Quest_Documentation.pdf)
