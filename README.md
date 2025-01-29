@@ -1,7 +1,5 @@
 
-![thesis_quest](assets/read_me/thesis_quest_logo_1.png)
-# **_CFG Degree Autumn 2024 - Group 1_** 
-***
+
 💫 **Members:**
 + Antigone Pollard
 + Emily Bunce
